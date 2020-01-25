@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Idowu's Hotel & Suite</title.
+ <\/head>
+ 
+ <img src="images/idowu.png"="idowu profile picture">
+ <hi>Idowu Temitope</h1>
+ <p><em.Founder and CEO of <strong><a href="https:www.Ihllmusicstudio.co/">The Ihll wizard nusic center</a><strong>
+<p>i am an Music Producer. i love my work but i cant satisfy the others</p>
+<hr>
+<h3>singing and Dancing</3>
+ 
